@@ -15,7 +15,7 @@ $(document).ready(function () {
       'nome' : 'Fabio',
       'cognome' : 'Blu',
       'eta' : 26
-    },
+    }
   ]
 
   //faccio inserire un nuovo oggetto
@@ -37,4 +37,4 @@ $(document).ready(function () {
     $('.container').append(html);
   }
 
-})
+});
